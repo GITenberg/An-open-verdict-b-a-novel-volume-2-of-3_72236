@@ -1,0 +1,38 @@
+_repo: An-open-verdict-b-a-novel-volume-2-of-3_72236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - Braddon, Mary Elizabeth
+    - White, Babington
+    - Breddon, Miss
+    - Maxwell, Mary Elizabeth Braddon
+    - Braddon, Mary E.
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: ''
+gutenberg_issued: '2023-11-27'
+identifiers:
+  gutenberg: '72236'
+language: en
+pgterms:marc904: https://archive.org/details/openverdictnovel02brad/page/n3/mode/2up
+pgterms:marc905: 20170513183227branddon
+pgterms:marc906: '1879'
+pgterms:marc907: gb
+production_note: David Edwards, Eleni Christofaki and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Maxwell and Co., $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: 'An open verdict : $b a novel, volume 2 (of 3)'
+url: http://www.gutenberg.org/ebooks/72236
